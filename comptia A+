@@ -1,1 +1,108 @@
-comptia A+ 
+#what is compTia
+comptTIA  is a non-profit trade association that provides vendor-neutral IT certifications
+what comptia do 
+provides training, certification, and skills validation for IT professionals
+
+#so i'll shere with you the knowlege of comptia A+ 
+that focos changing core technologies from cloud infrastructure and IoT device security to data management and scripting.
+
+#mobile divicec
+# 📱 Mobile Networks Cheat Sheet (CompTIA A+)
+
+## 🧩 Cellular Basics
+- Mobile = "cellular" = divided into **cells**.
+- Each cell has antennas to maintain **signal coverage** while moving.
+
+---
+
+## 📶 2G Networks
+- Early networks focused on **voice**, not data.
+- Two standards:
+  - **GSM** – Global System for Mobile Communications
+  - **CDMA** – Code Division Multiple Access
+- Originally **circuit-switched**, later upgraded for data.
+  
+---
+
+## 🌍 GSM (Global System for Mobile Communications)
+- ~90% of early global mobile market.
+- Popular in Europe, AT&T, and T-Mobile (USA).
+- Uses **SIM cards** to store user data (easy to swap phones).
+- Uses **multiplexing** (time-division): multiple users share same frequency.
+
+---
+
+## 🔐 CDMA (Code Division Multiple Access)
+- Each call uses a unique **code** for communication.
+- Popular in the US: Verizon & Sprint.
+- No SIM cards; phones were **locked to the network**.
+- Not widely adopted outside the US.
+
+---
+
+## 🚀 3G (Introduced in 1998)
+- **Faster speeds**, better support for:
+  - GPS
+  - Streaming video & audio
+  - Video calls
+- Speeds: a few **Mbps** (megabits per second)
+
+---
+
+## ⚡ LTE / 4G (Long Term Evolution)
+- Unified GSM and CDMA into a **single global standard**.
+- Based on **GSM + EDGE (Enhanced Data Rates)**.
+- Speeds:
+  - LTE: Up to **150 Mbps**
+  - LTE-A (Advanced): Up to **300 Mbps**
+
+---
+
+## 🚀 5G (Introduced ~2020)
+- **Massive speed boost**: up to **10 Gbps**
+- Real-world speeds: 100–900 Mbps
+- Enables:
+  - Advanced **IoT** (Internet of Things)
+  - Fast **cloud uploads**
+  - High-quality **real-time streaming**
+
+---
+
+## 🛠 PRL (Preferred Roaming List)
+- Tells your phone which towers/networks to connect to.
+- Updated via **OTA (Over-The-Air)** updates.
+
+---
+
+## 🌐 Hotspot / Tethering
+- Turns phone into **Wi-Fi router** using 802.11 + cellular data.
+- Some providers charge extra or limit functionality.
+- Useful for sharing internet with other devices.
+
+---
+
+## 📌 Summary Table
+
+| Topic      | Key Points |
+|------------|------------|
+| **Cellular** | Antennas + cells = mobile coverage |
+| **2G**       | GSM/CDMA, voice-focused |
+| **GSM**      | Global, SIM cards, time multiplexing |
+| **CDMA**     | Code-based, US-only, locked phones |
+| **3G**       | GPS, streaming, several Mbps |
+| **4G/LTE**   | Unified standard, 150–300 Mbps |
+| **5G**       | 10 Gbps max, IoT, ultra-fast |
+| **PRL**      | OTA roaming updates |
+| **Hotspot**  | Phone as Wi-Fi router (may cost extra) |
+
+---
+
+## 🔍 Good Terms to Google
+- Circuit switching vs packet switching  
+- Multiplexing (time vs frequency division)  
+- GSM vs CDMA technical differences  
+- LTE-A vs LTE  
+- mmWave 5G vs sub-6 GHz
+
+---
+
